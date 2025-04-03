@@ -15,4 +15,3 @@ This project involves designing and simulating a **robotic gripper arm** using *
 
 ---
 
-Let me know if you need modifications! 🚀
